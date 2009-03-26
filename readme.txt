@@ -1,15 +1,17 @@
-=== Facelook WordPress Plugin ===
+=== Gaboinked! Facebook Badge Plugin for WordPress ===
 Contributors: the Gaboink network, George Jones
-Donate link: http://gaboinked.chipin.com/facebook-badge-wordpress-plugin
-Tags: wordpress 2.5, facebook, facebook badge, plugin, sidebar, widget, plugin
-Requires at least: 2.0
-Tested up to: 2.5.1
-Stable tag: 1.0.1
+Donate link: http://gaboinked.com/index.php?option=com_jcs&view=jcs&layout=form&Itemid=61
+Tags: wordpress 2.7, facebook, facebook badge, plugin, sidebar, widget, plugin, gaboinked
+Requires at least: 2.3
+Tested up to: 2.7.1
+Stable tag: 1.0.142
 
-Facelook easily displays a Facebook Badge in the Sidedbar of your WordPress Blog.
+The Gaboinked! Facebook Badge Plugin for WordPress easily displays a Facebook Badge in the sidedbar of your self-hosted WordPress Blog.
 
 == Description ==
-Facelook allows you to display a facebook Badge in the Sider Bar of your on a self-hosted WordPress Blog without having to hard-code your WordPress template or use the sometimes unreliable Text Widget.Facelook has been tested on WordPress version 2.5 and should work on any WordPress version 2.3 and above. My Facelook Facebook Badge can be seen used at http://gaboink.net. If you find Facelook useful, any contributions or donations towards gas money are greatly appreciated.  Please leave a <a href="http://gaboink.net/2008/05/facebook-badge-wordpress-plugin/">comment</a> letting me know that you are using this widget!
+The Gaboinked! Facebook Badge Plugin for WordPress allows you to display a Facebook Badge in the Sider Bar of your on a self-hosted WordPress Blog without having to hard-code your WordPress template or use the sometimes unreliable WordPress Text Widget.
+
+The The Gaboinked! Facebook Badge Plugin for WordPress has been tested on WordPress version 2.7.x and should work on any WordPress version 2.3 and above. My Facelook Facebook Badge can be seen used at http://gaboink.net.  For the latest version please visit http://gaboinked.com
 
 == Installation ==
 
@@ -23,7 +25,11 @@ Facelook allows you to display a facebook Badge in the Sider Bar of your on a se
 
 == Frequently Asked Questions ==
 
-Q: Will the Facebook Facebook Badge Sidebar Widget work on WordPress.com hosted blogs?
+Q: Facebook has chnaged their site again, what do I do now?
+
+A: Visit http://gaboinked.com for the most recent updates and support.  Support is currently being provided for version 1.1.x and above.  If you are using a lower version please upgrade at: http://gaboinked.com.
+
+Q: Will the Gaboinked! Facebook Badge Plugin for WordPress sidebar Widget work on WordPress.com hosted blogs?
 
 A: Unfortunately, not that I am aware of at the moment.  You may contact the WordPress.com Support Team and request that they added it to their Plugin Pool, and they may make it available for you and others to use.
 
